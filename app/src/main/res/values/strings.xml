@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebServiceSandbox</string>
+    <string name="staticText">Static</string>
+    <string name="textViewString">Message from WebService</string>
+    <string name="getText">Get</string>
+    <string name="postText">Post</string>
+    <string name="editHintText">Enter Something</string>
+</resources>
